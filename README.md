@@ -1,1 +1,1 @@
-#Codeforce all solutions
+# Codeforce all solutions
